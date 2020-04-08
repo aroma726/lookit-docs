@@ -80,6 +80,7 @@ List of tutorial participants
 - Junyi Chu (MIT)
 - Maddie Pelz (MIT)
 - Emily Neer (UCLA)
+- You-jung Choi (Harvard)
 
 .. _Github issues overview:
 
